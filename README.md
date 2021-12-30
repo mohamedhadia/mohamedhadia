@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.mohamedhedeya.com/](https://www.mohamedhedeya.com/)
 
-- 📝 I regularly write articles on [http://devbites.xyz/ - https://www.mohamedhedeya.com/blog](http://devbites.xyz/ - https://www.mohamedhedeya.com/blog)
+- 📝 I regularly write articles on [http://devbites.xyz/](http://devbites.xyz/)
 
 - 💬 Ask me about **ReactJS, tailwindcss, wordpress , SEO and UI**
 
