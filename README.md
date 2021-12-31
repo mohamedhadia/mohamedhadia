@@ -15,6 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use flickity js slider with oxygen builder in WordPress](https://www.devbites.xyz/how-to-use-flickity-js-slider-with-oxygen-builder-in-wordpress)
+- [5 reasons why you should have a website for your business](https://next-cms-ghost-11yr6sylh-mohamedhadia.vercel.app/5-reasons-why-you-should-have-a-website-for-your-business/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
