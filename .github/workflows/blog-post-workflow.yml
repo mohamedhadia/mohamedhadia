@@ -11,4 +11,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://devbitesghost.herokuapp.com/438dbd0535695752cb33093d68bf08/rss/"
+          feed_list: "https://www.devbites.xyz/rss.xml"
+#           feed_list: "https://devbitesghost.herokuapp.com/438dbd0535695752cb33093d68bf08/rss/"
