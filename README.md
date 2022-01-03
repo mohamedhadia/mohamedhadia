@@ -15,9 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [working with gsap in bricks builder](https://devbitesghost.herokuapp.com/working-with-gsap-in-bricks-builder/)
-- [How to use flickity js slider with oxygen builder in WordPress](https://devbitesghost.herokuapp.com/how-to-use-flickity-js-slider-with-oxygen-builder-in-wordpress/)
-- [5 reasons why you should have a website for your business](https://devbitesghost.herokuapp.com/5-reasons-why-you-should-have-a-website-for-your-business/)
+- [How to use flickity js slider with oxygen builder in WordPress](https://www.devbites.xyz/how-to-use-flickity-js-slider-with-oxygen-builder-in-wordpress)
+- [5 reasons why you should have a website for your business](https://www.devbites.xyz/5-reasons-why-you-should-have-a-website-for-your-business)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
