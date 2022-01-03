@@ -3,13 +3,13 @@
 
 - 👨‍💻 All of my projects are available at [https://www.mohamedhedeya.com/](https://www.mohamedhedeya.com/)
 
-- 📝 I regularly write articles on [From my CV](http://devbites.xyz/)
+- 📝 I regularly write articles on [devbites](http://devbites.xyz/)
 
 - 💬 Ask me about **ReactJS, TailwindCSS, WordPress , SEO and UI**
 
 - 📫 How to reach me **mohamedhadia611@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PDdrIyEZLUOTWfid3ALDUwp0sJCxvUL_/view?usp=sharing](https://drive.google.com/file/d/1PDdrIyEZLUOTWfid3ALDUwp0sJCxvUL_/view?usp=sharing)
+- 📄 Know about my experiences [From my CV](https://drive.google.com/file/d/1PDdrIyEZLUOTWfid3ALDUwp0sJCxvUL_/view?usp=sharing)
 
 - ⚡ Fun fact **I am a gamer 🎮!**
 
