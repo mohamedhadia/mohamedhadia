@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [devbites](http://devbites.xyz/)
 
-- 💬 Ask me about **ReactJS, TailwindCSS, WordPress , SEO and UI**
+- 💬 Ask me about **ReactJS, WordPress, Webflow , SEO and UI**
 
 - 📫 How to reach me **mohamedhadia611@gmail.com**
 
