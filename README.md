@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A frontend developer from Egypt</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.mohamedhedeya.com/](https://www.mohamedhedeya.com/)
+- 👨‍💻 All of my projects are available at [https://www.mohamedhedeya.com/](https://www.mohamedhedeya.com/) and [Axuda Studio](https://axudastudio.com/)
 
 - 📝 I regularly write articles on [devbites](http://devbites.xyz/)
 
