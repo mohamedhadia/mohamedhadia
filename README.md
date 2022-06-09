@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.mohamedhedeya.com/](https://www.mohamedhedeya.com/) and [Axuda Studio](https://axudastudio.com/)
 
-- 📝 Sometime I write articles on [devbites](http://devbites.xyz/) 👀
+- 📝 Sometimes I write articles on [devbites](http://devbites.xyz/) 👀
 
 - 💬 Ask me about **ReactJS, WordPress, Webflow , SEO and UI**
 
