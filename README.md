@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mohamedhadia611@gmail.com**
 
-- 📄 Know about my experiences [From my CV](https://drive.google.com/drive/folders/1RhRo225CtVptK8Btr_c-1WhfP7hX9eRb)
+- 📄 Know about my experiences [From my CV](https://docs.google.com/document/d/11-oC4GiWBLe3j3KITOC_Qf_AyoQwBB0B5MhnF017QpU/edit?usp=sharing)
 
 - ⚡ Fun fact **I am a gamer 🎮!**
 
