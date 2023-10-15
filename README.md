@@ -5,11 +5,11 @@
 
 - 📝 Sometimes I write articles on [devbites](http://devbites.xyz/) 👀
 
-- 💬 Ask me about **ReactJS, WordPress, Webflow , SEO and UI**
+- 💬 Ask me about **ReactJS, WordPress, Webflow, SEO and UI**
 
 - 📫 How to reach me **mohamedhadia611@gmail.com**
 
-- 📄 Know about my experiences [From my resume](https://drive.google.com/file/d/1h9iGgT3g4rVosP2fvwSFN9fluwKn95hl)
+- 📄 Know about my experiences [From my CV](https://drive.google.com/drive/folders/1RhRo225CtVptK8Btr_c-1WhfP7hX9eRb)
 
 - ⚡ Fun fact **I am a gamer 🎮!**
 
